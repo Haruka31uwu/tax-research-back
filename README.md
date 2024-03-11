@@ -5,6 +5,7 @@
 - MySQL
 ## INSTALLATION
 - Clone the repository
+- git clone  https://github.com/Haruka31uwu/tax-research-back.git
 - Go to the project folder
 - Run `composer install`
 - Create a database
